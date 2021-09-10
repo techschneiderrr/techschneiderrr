@@ -20,19 +20,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/techschneiderrr" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/techschneiderrr" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/techschneiderrr" height="10" width="auto" />
 </a>
 <a href="https://twitter.com/manav_lamba_" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manav_lamba_" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manav_lamba_" height="10" width="auto" />
 </a>
 <a href="http://linkedin.com/in/manav-deep-singh-lamba-8172061a0" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com /in/manavdeep-singh-lamba" height="30" width="40" /></a>
 <a href="https://www.facebook.com/manav.lamba.9" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/manav.lamba.9" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/manav.lamba.9" height="10" width="auto" /></a>
 <a href="https://instagram.com/manav_lamba_" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manav_lamba_" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manav_lamba_" height="10" width="auto" /></a>
 <a href="https://www.behance.net/manavlamba" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/manavlamba" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/manavlamba" height="10" width="auto" /></a>
 <a href="https://youtube.com/channel/UCq3FYRak9IQP_eIa-rWWO8A" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucq3fyrak9iqp_eia-rwwo8a/featured" height="30" width="40" /></a>
 </p>
