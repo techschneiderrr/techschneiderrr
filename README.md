@@ -8,14 +8,14 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://github.com/techschneiderrr">
+  <a href="https://www.linkedin.com/in/manav-deep-singh-lamba-8172061a0/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://app.daily.dev/Manav_Lamba_" target="_blank">
     <img
       width="256"
       align="right"
@@ -26,9 +26,8 @@
 
 <br />
 
-## I am Ole-Martin Bratteng
 
-- Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
+- Student at [Vellore Institute if Technology, Vellore](https://vit.ac.in/)
 - Loves a freshly brewed cup of coffee
 
 
